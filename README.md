@@ -1,7 +1,11 @@
 # hello-world
-A trial repository
+
 Hai Good morning Manesh
-Dont expect anything from anyone.
-Hello students
+
+
+<<<<<<HEAD
 Let us learn Git
+=======
+Let's Begin the show
+>>>>>>> P2 has changed first time
 
